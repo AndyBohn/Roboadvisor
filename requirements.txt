@@ -1,0 +1,4 @@
+# Requirements for the Robo_Advisor Streamlit app
+# Pin or change versions if you need reproducible installs
+streamlit
+plotly>=5.16.0
